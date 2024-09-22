@@ -1,0 +1,16 @@
+{
+    "name": "Common Pickaxe",
+    "symbol": "CP",
+    "description": "Common pickaxe to increase mining hashrate by 5%",
+    "image": "https://yourdomain.com/images/pickaxe.png",
+    "attributes": [
+        {
+            "trait_type": "hashRate",
+            "value": "+5%"
+        },
+        {
+            "trait_type": "durability",
+            "value": 100
+        }
+    ]
+}
